@@ -1,2 +1,6 @@
-names=["harry", "ron", "hermoine"]
-puts names.reverse
+def greeting
+  puts "hello world"
+end 
+greeting
+greeting 
+greeting
