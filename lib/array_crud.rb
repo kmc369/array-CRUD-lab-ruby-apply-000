@@ -1,2 +1,2 @@
 names=["harry", "ron", "hermoine"]
-puts names.shift
+puts names.include?("edward cullen")
