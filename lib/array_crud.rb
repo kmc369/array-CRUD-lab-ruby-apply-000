@@ -1,2 +1,2 @@
 names=["harry", "ron", "hermoine"]
-puts names 
+puts names[0] names[2]
