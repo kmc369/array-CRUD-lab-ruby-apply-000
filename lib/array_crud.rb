@@ -1,6 +1,6 @@
 def greeting
   puts "hello world"
-end 
+end
 greeting
 greeting 
 greeting
