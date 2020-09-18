@@ -1,2 +1,2 @@
 names=["harry", "ron", "hermoine"]
-puts names.push("draco")
+puts names.unshift("draco")
